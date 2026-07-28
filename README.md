@@ -56,7 +56,7 @@
       </p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img width="260" src="./assets/profile.jpg" alt="Gangaprasad Boddawar" />
+      <img width="260" src="https://raw.githubusercontent.com/MRGokulB/MRGokulB/main/assets/profile.jpg" alt="Gangaprasad Boddawar" />
     </td>
   </tr>
 </table>
