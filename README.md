@@ -65,18 +65,15 @@
 
 ## GitHub Snapshot
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MRGokulB&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF69B4&text_color=F8BBD0&icon_color=EF93C4" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRGokulB&layout=compact&hide_border=true&langs_count=6&bg_color=0D1117&title_color=FF69B4&text_color=F8BBD0" alt="Most used languages" />
-
-<br />
-<br />
-
-<img width="70%" src="https://streak-stats.demolab.com?user=MRGokulB&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakNum=F8BBD0&sideNums=F8BBD0&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=F8BBD0" alt="GitHub contribution streak" />
-
-<br />
-<br />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MRGokulB&bg_color=0D1117&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&area_color=EF93C4&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity" />
+<a href="https://github.com/MRGokulB">
+  <img src="https://img.shields.io/badge/GitHub-MRGokulB-171717?style=for-the-badge&logo=github&logoColor=white" alt="MRGokulB on GitHub" />
+</a>
+<a href="https://github.com/MRGokulB?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View%20Projects-EF93C4?style=for-the-badge&logo=github&logoColor=171717" alt="View GitHub repositories" />
+</a>
+<a href="https://github.com/MRGokulB">
+  <img src="https://img.shields.io/badge/Contributions-View%20Activity-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub contribution activity" />
+</a>
 
 </div>
 
@@ -114,23 +111,14 @@
 
 ## Connect
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE/">
+<a href="https://github.com/MRGokulB">
+  <img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/gangaprasad-boddawar-743357281/">
   <img src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://x.com/YOUR_X_HANDLE">
-  <img src="https://img.shields.io/badge/X-FF69B4?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-<a href="https://www.instagram.com/YOUR_INSTAGRAM_HANDLE/">
-  <img src="https://img.shields.io/badge/Instagram-F8BBD0?style=for-the-badge&logo=instagram&logoColor=171717" alt="Instagram" />
-</a>
-<a href="https://www.tiktok.com/@YOUR_TIKTOK_HANDLE">
-  <img src="https://img.shields.io/badge/TikTok-EF93C4?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-</a>
-<a href="https://www.youtube.com/@YOUR_YOUTUBE_HANDLE">
-  <img src="https://img.shields.io/badge/YouTube-FF69B4?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-F8BBD0?style=for-the-badge&logo=gmail&logoColor=171717" alt="Email" />
+<a href="mailto:boddawargokul@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br />
